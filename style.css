@@ -1,0 +1,32 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+body {
+   background-image: url(background-image.webp);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.header-image {
+   width: 20%;
+   height: 20%;
+   max-width: 200px;
+   max-height: 200px;
+   margin-top: 8px;
+   padding-right: 8vh;
+}
+.header {
+    display: flex;
+    justify-content: center;
+}
+
+.header-image-2 {
+    width: 20%;
+    height: 20%;
+    max-width: 200px;
+   max-height: 200px;
+   margin-top: 8px;
+   padding-left: 6vh;
+}
+
